@@ -1,0 +1,8 @@
+O IMT informa que para obter as cartas de condução B tem que ter 18 anos(Lei). 
+
+"A idade da Filipa é 17 anos". 
+
+Crie um programa em Python usando variáveis, operadores condicionais e relacionais imprimindo "Não Pode Conduzir" para menor de 18 e imprimir "Pode Conduzir" para maior de idade 
+
+
+Decreto-Lei n.º 138/2012
